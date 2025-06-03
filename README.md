@@ -64,27 +64,5 @@ On the software front, **OpenCV**, an open-source computer vision library, is em
 - Integrate mobile app for remote monitoring
 - Add cloud-based analytics for stress trends and predictions
 
----
 
-## 📷 Demo & Screenshots
-
-*(Add demo images or a video/GIF here if available)*
-
----
-
-## 🤝 Contributors
-
-- Sindhu H S – 1EW21EC124  
-- Srinidhi Deshpande – 1EW21EC128  
-- Varsha N T – 1EW21EC139  
-- Vedavathi C M – 1EW21EC140  
-- **Guide:** Prof. Dhanyashree P N, Dept. of ECE, EWIT, Bengaluru
-
----
-
-## 📄 License
-
-This project is developed for academic purposes. Please check with the authors before using in commercial applications.
-
----
 
